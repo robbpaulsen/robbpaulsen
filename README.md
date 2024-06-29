@@ -10,11 +10,11 @@
 - 🌱 I’m currently learning PowerShell
 - I love TUI's, Scripting Automation for shell environment and Ricing Linux
 
-Other things I've learn and I'm an enthusiast are:
+Other things I've learned and I'm an enthusiast are:
 * Microcontrollers
 * SigMint
 * FlipperZero
-* SDR Rf devcies and codinf
+* SDR Rf devices and coding
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robbpaulsen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
