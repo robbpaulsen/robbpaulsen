@@ -12,7 +12,7 @@
 
 Other things I've learned and I'm an enthusiast are:
 * Microcontrollers
-* SigMint
+* SigInt
 * FlipperZero
 * SDR Rf devices and coding
 
